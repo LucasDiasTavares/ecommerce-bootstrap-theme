@@ -1,0 +1,29 @@
+.badge-pill {
+	font-size: 0.8rem;
+}
+
+span ul li a {
+	text-decoration-style: none;
+	list-style: none !important;
+	margin-right: 1rem;
+	font-weight: bold;
+	color: #fff;
+	font-size: 1.2rem;
+}
+
+.pagination {
+  border: 0px solid #ddd;
+}
+.pagination > li > a {
+   border: 0px solid #ddd;
+   border-radius: 0px!important;
+   margin: 0px 5px 0px 5px;
+}
+
+.page-item.active .page-link{
+	background-color: #50a4ff;
+}
+
+.pagination > li > a {
+	font-weight: bold;
+}
